@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__\u0110\u1ED2_\u00C1N_1_L\u00C0M_CHUNG_BAITAPDOAN1_BAITAPDOAN1_DATABASE1.MDF/True/SqlTable/dbo.medic.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__\u0110\u1ED2_\u00C1N_1_L\u00C0M_CHUNG_BAITAPDOAN1_BAITAPDOAN1_DATABASE1.MDF/True/SqlTable/dbo.Taikhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\admin\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\admin\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\admin\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\admin\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__\u0110\u1ED2_\u00C1N_1_L\u00C0M_CHUNG_BAITAPDOAN1_BAITAPDOAN1_DATABASE1.MDF/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\admin\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\admin\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\user\\us_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\user\\us_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\admin\\uc_dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\admin\\uc_dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\user\\us_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\user\\us_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\user\\us_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\user\\us_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\user\\us_dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\user\\us_dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\user\\us_checkvalidity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\user\\us_checkvalidity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\user\\us_addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\user\\us_addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\user\\us_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\user\\us_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\user\\us_addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\user\\us_addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\user\\us_checkvalidity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\user\\us_checkvalidity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\baitapdoan1\\user\\us_checkvalidity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C70C7D-889C-4C5C-B7AF-DCDA6B277BDE}|BaitapDoAn1\\BaitapDoAn1.csproj|solutionrelative:baitapdoan1\\user\\us_checkvalidity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.medic [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__\u0110\u1ED2_\u00C1N_1_L\u00C0M_CHUNG_BAITAPDOAN1_BAITAPDOAN1_DATABASE1.MDF/True/SqlTable/dbo.medic.sql",
+              "ToolTip": "dbo.medic [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-11T12:23:58.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__\u0110\u1ED2_\u00C1N_1_L\u00C0M_CHUNG_BAITAPDOAN1_BAITAPDOAN1_DATABASE1.MDF/True/SqlTable/dbo.users.sql",
+              "ToolTip": "dbo.users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-11T11:43:54.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Taikhoan [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__\u0110\u1ED2_\u00C1N_1_L\u00C0M_CHUNG_BAITAPDOAN1_BAITAPDOAN1_DATABASE1.MDF/True/SqlTable/dbo.Taikhoan.sql",
+              "ToolTip": "dbo.Taikhoan [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-11T11:09:26.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\frmAdmin.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\frmAdmin.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\frmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:03:19.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_ViewUser.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\Admin\\UC_ViewUser.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\Admin\\UC_ViewUser.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\Admin\\UC_ViewUser.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\Admin\\UC_ViewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:03:06.702Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\Admin\\UC_Profile.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\Admin\\UC_Profile.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\Admin\\UC_Profile.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\Admin\\UC_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:02:58.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_Dashbord.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\Admin\\UC_Dashbord.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\Admin\\UC_Dashbord.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\Admin\\UC_Dashbord.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\Admin\\UC_Dashbord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:02:18.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_AddUser.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\Admin\\UC_AddUser.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\Admin\\UC_AddUser.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\Admin\\UC_AddUser.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\Admin\\UC_AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:02:06.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUser.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\frmUser.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\frmUser.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\frmUser.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\frmUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:51:26.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "US_UpdateMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_UpdateMedicine.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\User\\US_UpdateMedicine.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_UpdateMedicine.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\User\\US_UpdateMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:01:44.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "US_Dashbord.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_Dashbord.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\User\\US_Dashbord.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_Dashbord.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\User\\US_Dashbord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:01:32.561Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "US_CheckValidity.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_CheckValidity.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\User\\US_CheckValidity.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_CheckValidity.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\User\\US_CheckValidity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:01:23.176Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "US_SellMedicine.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_SellMedicine.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\User\\US_SellMedicine.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_SellMedicine.cs",
+              "RelativeToolTip": "BaitapDoAn1\\User\\US_SellMedicine.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:54:48.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "US_SellMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_SellMedicine.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\User\\US_SellMedicine.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_SellMedicine.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\User\\US_SellMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:50:55.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "US_ViewMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_ViewMedicine.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\User\\US_ViewMedicine.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_ViewMedicine.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\User\\US_ViewMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:50:26.879Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "US_AddMedicine.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_AddMedicine.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\User\\US_AddMedicine.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_AddMedicine.cs",
+              "RelativeToolTip": "BaitapDoAn1\\User\\US_AddMedicine.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:32:37.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmUser.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\frmUser.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\frmUser.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\frmUser.cs",
+              "RelativeToolTip": "BaitapDoAn1\\frmUser.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAWwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:00:17.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "US_CheckValidity.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_CheckValidity.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\User\\US_CheckValidity.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_CheckValidity.cs",
+              "RelativeToolTip": "BaitapDoAn1\\User\\US_CheckValidity.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:10:24.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "US_AddMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_AddMedicine.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\User\\US_AddMedicine.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_AddMedicine.cs [Design]",
+              "RelativeToolTip": "BaitapDoAn1\\User\\US_AddMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:12:56.645Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "US_CheckValidity.Designer.cs",
+              "DocumentMoniker": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_CheckValidity.Designer.cs",
+              "RelativeDocumentMoniker": "BaitapDoAn1\\User\\US_CheckValidity.Designer.cs",
+              "ToolTip": "C:\\\u0110\u1ED3 \u00E1n 1 L\u00E0m chung\\BaitapDoAn1\\BaitapDoAn1\\User\\US_CheckValidity.Designer.cs",
+              "RelativeToolTip": "BaitapDoAn1\\User\\US_CheckValidity.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv0YAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:16:03.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
